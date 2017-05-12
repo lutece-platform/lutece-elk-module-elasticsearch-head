@@ -10,7 +10,7 @@
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>module-elasticsearch-head</artifactId>
     <packaging>lutece-plugin</packaging>
-    <version>0.9.0</version>
+    <version>0.9.1-SNAPSHOT</version>
     <name>Lutece elasticsearch head module</name>
 
     <repositories>
@@ -48,7 +48,7 @@
         <connection>scm:git:https://github.com/lutece-platform/lutece-elk-module-elasticsearch-head.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-elk-module-elasticsearch-head.git</developerConnection>
 	<url>https://github.com/lutece-platform/lutece-elk-module-elasticsearch-head.git</url>
-      <tag>lutece-elk-module-elasticsearch-head-0.9.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <description>module  elasticsearch head</description>
 </project>
