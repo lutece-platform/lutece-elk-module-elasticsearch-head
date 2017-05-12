@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Module ElasticSearch Head</title>
+    </properties>
+    <body>
+        <section name="Module ElasticSearch HEad">
+            <!--
+            <p>
+                <img src="images/elasticsearch-head.png" />
+            </p>
+            -->
+            <subsection name="Introduction">
+                <p>This plugin allows to elasticsearch head: http://mobz.github.io/elasticsearch-head/</p>
+            </subsection>
+            <subsection name="Usage">
+                <p>Elasticsearch must be configured with cors enabled in elasticsearch.yml:</p>
+                <p>http.cors.enabled: true</p>
+                <p>http.cors.allow-origin: "*"</p>
+                <p>Then navigate to YOURSITE/plugins/elasticsearch/modules/head/index.html</p>
+            </subsection>
+        </section>
+    </body>
+</document>
+
